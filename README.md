@@ -7,3 +7,8 @@ This Project contains<br>
 -- Logistic Regression <br>
 -- Comparsion between the test size and the acccuracy of the ML models <br>
 -- Plotting of higer dimesional data using PCA and T-SNE <br>
+
+## This Repository Include 
+--Readme itself<br>
+-- ipynb file<br>
+-- dataset file<br>
